@@ -1,4 +1,4 @@
-[![MasterHead](./ben.png)
+![MasterHead](./ben.png)
 <h1 align="center">Hi 👋, I'm Muhammet Talha EYÜBOĞLU</h1>
 <h3 align="center">A passionate frontend/backend developer from Turkey</h3>
 
